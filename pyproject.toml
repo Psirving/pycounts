@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pycounts"
+name = "psirving_pycounts"
 version = "0.1.0"
 description = "Count unique words in a text file."
 authors = ["Patrick S Irving"]
